@@ -1,0 +1,12 @@
+
+.container .footer-icon-area{
+    background-color: grey;
+    margin-top: 90%;
+    height: 40px;
+}
+
+.container .lower-footer-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
